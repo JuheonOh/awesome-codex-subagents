@@ -1,6 +1,6 @@
 name = "content-quality-editor"
 description = "Use before publishing any AI-generated or AI-assisted content: READMEs, blog posts, release notes, PR descriptions, documentation, or social copy. Strips AI writing patterns with unslop, then applies an editorial pass."
-model = "gpt-5.3-codex-spark"
+model = "gpt-5.4-mini"
 model_reasoning_effort = "low"
 sandbox_mode = "read-only"
 developer_instructions = """
